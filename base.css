@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*字体大小*/
+.fz03em{font-size: 0.3em;}
+.fz04em{font-size: 0.4em;}
+.fz05em{font-size: 0.5em;}
+.fz65em{font-size: 0.65em;}
+.fz75em{font-size: 0.75em;}
+.fz85em{font-size: 0.85em;}
+.fz1em{font-size: 1em;}
+.fz12em{font-size: 1.2em;}
+.fz13em{font-size: 1.3em;}
+.fz15em{font-size: 1.5em;}
+.fz2em{font-size: 2em; line-height:2em}
+.fz25em{font-size: 2.5em; line-height:2.5em;}
+.fz3em{font-size: 3em; line-height:3em}
+
+/*字体颜色*/
+.white{ color:#FFF}
+.purple{ color:#F0F}
+.cyan{ color:#0FF}
+.qingse{ color:#3FF;}
+.red{ color:#F00;}
+.red1{ color:#F30;}
+.red2{ color:#F60;}
+.blue{ color:#00F;}
+.blue1{ color:#03F;}
+.blue2{ color:#06F;}
+.blue3{ color:#0CF;}
+.blue4{ color:#0FF;}
+.green{ color:#0F0;}
+.green5{ color:#060;}
+.green1{ color:#0F3;}
+.green2{ color:#0F6;}
+.green3{ color:#0F9;}
+.green4{ color:#0FC;}
+.yellow{ color:#FF0;}
+.yellow1{ color:#FC0;}
+.yellow2{ color:#F90;}
+.yellow3{ color:#FF3;}
+.yellow4{ color:#FF6;}
+.yellow5{ color:#FF9;}
+.yellow6{ color:#FFC;}
+.pink{ color:#F0F;}
+.pink1{ color:#F3F;}
+.pink2{ color:#F6F;}
+.pink3{ color:#F9F;}
+.pink4{ color:#FCF;}
+
+/*底部间距*/
+.pdt10{ padding-top:10px;}
+.pdt20{ padding-top:20px;}
+.pdt30{padding-top:30px;}
+
+/*对齐方式*/
+.tac{text-align: center;}
+.tal{text-align: left;}
+.tar{text-align: right}
+
+/*行高*/
+.lh12em{ line-height:1.2em;}
+.lh15em{ line-height:1.5em;}
+.lh18em{ line-height:1.8em;}
+
+/*字体类型*/
+.font-kaiti{font-family: "楷体";}
+.font-heiti{font-family: "黑体";}
+.font-songti{font-family: "宋体";}
+.font-yahei{font-family: "微软雅黑";}
+

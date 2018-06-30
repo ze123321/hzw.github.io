@@ -1,0 +1,1 @@
+flightHandler({"appId":"wx78e4e159f47ed305","nonceStr":"HllUa6kKslyPAJa8","timestamp":1518512407,"url":"","signature":"6de4422d1f96c33df1a63b18aa295c3e977f4675","rawString":"jsapi_ticket=HoagFKDcsGMVCIY2vOjf9kt87s_NZhxb3liiqVwWEto2t_l2GJtqPTPsRJYX6OSM7Dw2sr4Q5_vum2MNYqNQpg&noncestr=HllUa6kKslyPAJa8×tamp=1518512407&url="})
